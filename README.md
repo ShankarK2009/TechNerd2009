@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TechNerd2009
-- 👀 I’m interested in ... technology
+- 👀 I’m interested in ... Technology
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... simple beginner Python projects
 - 📫 How to reach me ... **EMAIL**: krishnamurthyshankar9@gmail.com **Phone**: (919) - 808 - 8526
