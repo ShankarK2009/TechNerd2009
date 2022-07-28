@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Technology
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... simple beginner Python projects
-- 📫 How to reach me ... **EMAIL**: krishnamurthyshankar9@gmail.com_____**Phone**: (919) - 808 - 8526
+- 📫 How to reach me ... **EMAIL**: krishnamurthyshankar9@gmail.com
 
 <!---
 TechNerd2009/TechNerd2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
