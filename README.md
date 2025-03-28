@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechNerd2009
 - 👀 I’m interested in ... Technology (in general)
-- 🌱 I’m currently learning ... Java, and Agentic AI
+- 🌱 I’m currently learning ... Java and Agentic AI
 - 📫 How to reach me ... **EMAIL**: krishnamurthyshankar9@gmail.com
 
 <!---
