@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m passionate about building AI-powered applications th
 
 ## 🚀 Top Projects
 
-- **[Dynamic Dragon](https://github.com/ShankarK2009/Dynamic-Dragon)**
+- **[Dynamic Dragon](https://github.com/ShankarK2009/Dynamic_Dragon)**
   - An interactive website where users shape dynamic, branching stories powered by open-source LLMs from Ollama.
 
 - **[AI-YouTube-Wizard](https://github.com/ShankarK2009/AI-YouTube-Wizard)**
